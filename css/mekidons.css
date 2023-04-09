@@ -1,0 +1,429 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo{
+    margin-left: 120px;
+}
+
+.hmenu{
+    display: flex;
+    list-style-type: none;
+    margin-left: 200px;
+    margin-top: -100px;
+}
+
+.item{
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+    font-size: 15px;
+}
+
+.nav2{
+    margin-left: 250px;
+    display: flex;
+    font-size: 15px;
+}
+
+.boki-voli-saru{
+    margin-top: -15px;
+}
+
+.item1{
+    color: cornflowerblue;
+    margin-top: 60px;
+}
+
+.item2{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    margin: 20px;
+    margin-bottom: 60px;
+}
+
+.box-for-order{
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+    border: 3px solid rgb(228, 194, 29);
+    background-color: rgb(228, 194, 29);
+    padding: 10px;
+    margin: 20px;
+}
+
+.hmenu2{
+    display: flex;
+    list-style-type: none;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+
+.slika{
+    margin-left: 120px;
+}
+
+.p-div{
+    margin-right: 150px;
+    margin-left: 30px;
+    line-height: 20px;
+}
+
+.panel{
+    display: flex;
+    
+}
+
+.list-item{
+    margin-left: 30px;
+}
+
+.paragraf{
+    font-size: 10px;
+    line-height: 15px;
+}
+
+.link{
+    color: cornflowerblue;
+}
+
+.p1-div{
+    line-height: 30px;
+}
+
+.naslov{
+    line-height: 30px;
+}
+
+.order-box{
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+    border: 3px solid rgb(228, 194, 29);
+    background-color: rgb(228, 194, 29);
+    padding: 10px;
+}
+
+.o-div{
+    margin-top: 50px;
+}
+
+.pane-1{
+    display: flex;
+}
+
+.picture{
+    margin-top: 100px;
+    margin-left: 120px;
+   
+    
+}
+
+
+
+.o-div1{
+    margin-bottom: 1000px;
+}
+
+.order-box1{
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+    border: 3px solid rgb(228, 194, 29);
+    background-color: rgb(228, 194, 29);
+    padding: 10px;
+    line-height: 200px;
+}
+
+.paragraf1{
+    font-size: 10px;
+    line-height: 15px;
+}
+
+.title{
+    line-height: 30px;
+    float: right;
+    
+}
+
+.link1{
+    color: cornflowerblue;
+}
+
+.link2{
+    color: cornflowerblue;
+}
+
+.p-div1{
+    margin-left: 900px;
+    margin-top: -350px;
+    margin-right: 100px;
+
+}
+
+.panel-2{
+    display: flex;
+    margin-top: -1050px;
+}
+
+.title1{
+    line-height: 30px;
+    float: right;
+}
+
+.text1{
+    font-size: 10px;
+    line-height: 15px;
+}
+
+.order-box2{
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+    border: 3px solid rgb(228, 194, 29);
+    background-color: rgb(228, 194, 29);
+    padding: 10px;
+    line-height: 200px;
+}
+
+.p-div2{
+    margin-left: 30px;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+
+.text-1{
+    font-size: 10px;
+    line-height: 15px;
+}
+
+.panel-3{
+    display: flex;
+    margin-top: -20px;
+}
+
+.p-div3{
+    margin-top: 115px;
+    margin-left: 30px;
+    margin-right: 135px;
+}
+
+
+
+.order-box3{
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+    border: 3px solid rgb(228, 194, 29);
+    background-color: rgb(228, 194, 29);
+    padding: 10px;
+    line-height: 200px;
+}
+
+.o-div3{
+    margin-top: -40px;
+}
+
+.s{
+    line-height: 25px;
+}
+
+.panel-4{
+    display: flex;
+}
+
+.p-div4{
+    margin-top: 100px;
+    margin-left: 30px;
+    margin-right: 150px;
+}
+
+.order-box4{
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+    border: 3px solid rgb(228, 194, 29);
+    background-color: rgb(228, 194, 29);
+    padding: 10px;
+    line-height: 200px;
+}
+
+.o-div4{
+    margin-top: -40px;
+}
+
+.panel-5{
+    display: flex;
+}
+
+.p-div5{
+    margin-top: 100px;
+    margin-left: 30px;
+    margin-right: 150px;
+}
+
+.text-5{
+    font-size: 10px;
+    line-height: 15px;
+}
+
+.order-box5{
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+    border: 3px solid rgb(228, 194, 29);
+    background-color: rgb(228, 194, 29);
+    padding: 10px;
+    line-height: 200px;
+}
+
+.panel-6{
+    display: flex;
+}
+
+.p-div6{
+    margin-top: 100px;
+    margin-left: 30px;
+    margin-right: 150px;
+}
+
+.text-6{
+    font-size: 10px;
+    line-height: 15px;
+}
+
+.sl{
+    color: cornflowerblue;
+}
+
+.order-box6{
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+    border: 3px solid rgb(228, 194, 29);
+    background-color: rgb(228, 194, 29);
+    padding: 10px;
+    line-height: 200px;
+}
+
+.slk{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.aaa{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.fotter{
+    margin: 50px;
+    line-height: 25px;
+}
+
+.fotter1{
+    margin: 50px;
+    line-height: 25px;
+}
+
+.fotter2{
+    margin: 50px;
+    line-height: 25px;
+}
+
+.fotter3{
+    margin: 50px;
+    line-height: 25px;
+}
+
+.web-pages{
+    display: flex;
+    margin: 90px;
+    margin-top: -10px;
+    margin-top: 10px;
+}
+
+.app{
+    margin: 10px;
+}
+
+.stores{
+    margin-left: 600px;
+}
+
+.horizontal-line{
+    margin-top: -50px;
+    margin-left: 90px;
+    margin-right: 90px;
+    color: gray;
+}
+
+.end{
+    display: flex;
+}
+
+.f-link{
+    text-decoration: none;
+    color: black;
+    margin-left: 50px;
+    font-size: 15px;
+    margin-top: 40px;
+}
+
+.pct{
+    margin-left: 950px;
+    margin-top: -20px;
+}
+
+.sdj{
+    font-size: 15px;
+}
+
+.f-text{
+    margin-left: 1050px;
+    margin-top: -40px;
+}
+
+.end-2{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.boki1{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+.boki2{
+    text-decoration: none;
+    color: black;
+    margin-left: 60px;
+    font-size: 15px;
+}
+
+.fufica{
+    list-style-type: none;
+}
+
+.main-site{
+    margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
